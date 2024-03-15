@@ -18,4 +18,4 @@ build:
       env:
         GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
       with:
-        USERNAME: ${{ peteragurto }}
+        USERNAME: ${{ github.repository_owner }}
