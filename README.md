@@ -1,7 +1,5 @@
 <div>
-  <h1>Hola</h1>
 </div>  
-
 <div align="center">
   <img width="725em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peteragurto&theme=tokyonight" />
 </div>
