@@ -1,4 +1,23 @@
-### Hi there 👋
+<div>
+  <h1 style="color:">Bienvenido</h1>
+</div>  
+
+<div align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peteragurto&theme=tokyonight" />
+</div>
+<br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=peteragurto&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Agurto github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteragurto&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,figma,firebase,git" />
+  </a>
+</p>
+
 
 <!--
 **peteragurto/peteragurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
