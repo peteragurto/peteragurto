@@ -9,7 +9,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,figma,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,figma,firebase,git,python" />
   </a>
 </p>
 
